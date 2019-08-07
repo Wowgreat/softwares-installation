@@ -1,4 +1,6 @@
-### 官方推荐安装方法
+### Official recommended way
+
+[Official page](https://docs.sentry.io/server/installation/docker/)
 
 - ```shell
   git clone https://github.com/getsentry/onpremise.git
